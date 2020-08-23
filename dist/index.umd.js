@@ -1,0 +1,2 @@
+!function(e,o){"object"==typeof exports&&"undefined"!=typeof module?module.exports=o():"function"==typeof define&&define.amd?define(o):e.gatsbyRemarkPrivacyEmbeds=o()}(this,function(){return function(e,o){var n=e.markdownAST;try{return console.log("--------"),console.log(require("util").inspect(n,!1,null,!0)),console.log("-------"),Promise.resolve(n)}catch(e){return Promise.reject(e)}}});
+//# sourceMappingURL=index.umd.js.map
